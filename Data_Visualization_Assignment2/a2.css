@@ -1,0 +1,15 @@
+﻿﻿
+.blue { /*Class for setting the color of text blue*/
+    color: blue;
+    font-weight: normal;
+}
+
+#course {
+    font-style: italic;
+    font-weight: normal;
+}
+
+#assn1 { /*Setting the color of Assignment 2 as green by using its id*/
+    color: green;
+    font-weight: normal;
+}
